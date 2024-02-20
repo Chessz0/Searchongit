@@ -7,9 +7,10 @@ This Chrome extension adds a button to the browser toolbar that allows users to 
 ## Installation
 
 1. Download or clone this repository.
-2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Enable "Developer mode" in the top right corner.
-4. Click on "Load unpacked" and select the directory where you saved the extension files.
+2. extract the zip file
+3. Open Google Chrome and navigate to `chrome://extensions/`.
+4. Enable "Developer mode" in the top right corner.
+5. Click on "Load unpacked" and select the directory where you saved the extension files (this must be the folder where manifest.json and more setup files are located).
 
 ## How to Use
 
